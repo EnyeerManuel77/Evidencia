@@ -1,0 +1,9 @@
+Links de repositorios:
+
+
+1. APY: https://github.com/EnyeerManuel77/API.py.git
+2. FRONTENDAPI: https://github.com/jcmican1/FronendApiCancionesJJ.git
+3. ACTIVIDAD EN GRUPO: https://github.com/EnyeerManuel77/Actividad-en-grupo.git
+4. EJERCICIOS: https://github.com/EnyeerManuel77/ejercicios.git
+
+
